@@ -13,7 +13,7 @@ const store = new Vuex.Store({
       // 本地配置
       isZenMode: false, // 是否是禅模式
       // 是否开启节点富文本
-      openNodeRichText: true,
+      openNodeRichText: false,
       // 鼠标行为
       useLeftKeySelectionRightKeyDrag: false,
       // 是否显示滚动条
