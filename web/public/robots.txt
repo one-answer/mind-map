@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mindmap.aolifu.org/sitemap.xml
